@@ -1,0 +1,12 @@
+.container{
+
+    padding: 50px;
+    background-color: rgb(203, 233, 233);
+    width: 600px;
+    align-items: center;
+    border-radius: 20px;
+}
+.left{
+    position: absolute;
+    right: 14px;
+}
